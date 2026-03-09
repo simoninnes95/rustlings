@@ -7,4 +7,3 @@ fn main() {
 fn call_me() {
     println!("You called me!");
 }
-
